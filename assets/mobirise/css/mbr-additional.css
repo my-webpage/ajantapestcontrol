@@ -674,7 +674,7 @@ section.lazy-placeholder:after {
   transition: font-size 0.25s;
 }
 .cid-s2V8GM9yhP .menu-content-top {
-  background: #14287f;
+  background: #4f87fb;
   max-width: 100%;
   justify-content: space-between;
   padding: 0 1rem;
@@ -1020,7 +1020,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #14287f;
+  background-color: #3b5998;
 }
 .cid-s2V8GM9yhP button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1646,7 +1646,7 @@ section.lazy-placeholder:after {
 .cid-tdZGfrzVqF {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #5a67a1;
+  background-image: url("../../../assets/images/mbr-1920x1285.jpg");
   overflow: hidden;
 }
 .cid-tdZGfrzVqF .mbr-fallback-image.disabled {
@@ -1801,12 +1801,12 @@ section.lazy-placeholder:after {
 }
 .cid-tdZGfrzVqF .card-title,
 .cid-tdZGfrzVqF .mbr-section-btn {
-  color: #ffffff;
+  color: #13287d;
 }
 .cid-s2V8IHwJ8J {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-s2V8IHwJ8J .contents {
   text-align: center;
@@ -1824,7 +1824,7 @@ section.lazy-placeholder:after {
   color: #83868c;
 }
 .cid-s2V8IHwJ8J .card.accentCard .card-wrapper {
-  background-color: #13287d;
+  background-color: #4f87fb;
 }
 .cid-s2V8IHwJ8J .card.accentCard .card-wrapper .card-box .card-title {
   color: #ffffff;
@@ -1833,7 +1833,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-s2V8IHwJ8J .card.accentCard .card-wrapper .card-img {
-  box-shadow: -10px -10px 0 0 #5a67a1;
+  box-shadow: -10px -10px 0 0 #000000;
   background-color: #ffffff;
 }
 .cid-s2V8IHwJ8J .card.accentCard .card-wrapper .card-img .mbr-iconfont {
@@ -1845,7 +1845,7 @@ section.lazy-placeholder:after {
 .cid-s2V8IHwJ8J .card-wrapper {
   height: 100%;
   border-radius: 5px;
-  border: 1px solid #dcdfe2;
+  border: 1px solid #14287f;
   padding: 50px 35px 31px;
   transition: all 0.3s;
   margin-top: 15px;
@@ -1874,7 +1874,7 @@ section.lazy-placeholder:after {
   box-shadow: -10px -10px 0 0 #eeeff2;
   align-items: center;
   justify-content: center;
-  background-color: #3b5998;
+  background-color: #4f87fb;
   cursor: pointer;
   position: relative;
 }
@@ -1970,7 +1970,7 @@ section.lazy-placeholder:after {
 .cid-s2V8IUb5gv {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1920x1285.jpg");
 }
 .cid-s2V8IUb5gv .card-wrapper {
   height: 100%;
@@ -2166,7 +2166,7 @@ section.lazy-placeholder:after {
 .cid-s2V8LxNJeA {
   padding-top: 60px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1920x1285.jpg");
 }
 .cid-s2V8LxNJeA .main {
   margin-bottom: 70px;
@@ -2330,7 +2330,7 @@ section.lazy-placeholder:after {
 .cid-teH5lHeORK {
   padding-top: 0px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1920x1285.jpg");
 }
 .cid-teH5lHeORK .main {
   margin-bottom: 70px;
@@ -2492,11 +2492,12 @@ section.lazy-placeholder:after {
   box-shadow: none !important;
 }
 .cid-teH3eEi0Cx {
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1920x1271.jpg");
 }
 .cid-teH3eEi0Cx .card {
   padding: 30px;
-  background-color: #ebeae2;
+  background-color: #6d7a8c;
+  box-shadow: 0px 10px 20px 0px rgba(29, 29, 27, 0.2);
 }
 @media (min-width: 992px) {
   .cid-teH3eEi0Cx .card {
@@ -2515,10 +2516,17 @@ section.lazy-placeholder:after {
   position: absolute;
   top: 0;
 }
+.cid-teH3eEi0Cx H2 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-teH3eEi0Cx P {
+  text-align: center;
+}
 .cid-tdZN3rql6f {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background: #ffffff;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-tdZN3rql6f .row {
   flex-direction: row-reverse;
@@ -2601,8 +2609,8 @@ section.lazy-placeholder:after {
   color: #000000;
 }
 .cid-tdZR6hJv22 {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #2b2b2b;
   overflow: hidden;
 }
