@@ -2163,6 +2163,47 @@ section.lazy-placeholder:after {
 .cid-s2V8IUb5gv .card-wrapper .card-box .meta {
   color: #13287d;
 }
+.cid-tgJGs4vIfx {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+  background-color: #f4f4f4;
+}
+.cid-tgJGs4vIfx .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tgJGs4vIfx .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tgJGs4vIfx .text-wrapper {
+  padding: 5rem;
+}
+@media (max-width: 767px) {
+  .cid-tgJGs4vIfx .text-wrapper {
+    padding: 3rem 1rem;
+  }
+}
+.cid-tgJGs4vIfx .wrapper {
+  background: #ffffff;
+  border-radius: 2rem;
+  overflow: hidden;
+}
+.cid-tgJGs4vIfx .image-wrapper {
+  padding: 0;
+}
+.cid-tgJGs4vIfx .image-wrapper img {
+  height: 100%;
+  border-radius: 2rem;
+  object-fit: cover;
+}
+.cid-tgJGs4vIfx .mbr-section-title {
+  color: #13287d;
+}
 .cid-s2V8LxNJeA {
   padding-top: 60px;
   padding-bottom: 15px;
